@@ -9,3 +9,6 @@ beautifulsoup4
 pytest
 sqlalchemy
 jupyterlab
+kaggle-evaluation
+kaggle
+polars
